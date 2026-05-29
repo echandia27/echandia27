@@ -1,7 +1,9 @@
 Junior Data Analyst focused on transforming complex data into actionable business strategies.
 
 > whoami
+
 Juan Pablo Echandía Sánchez
+
 Data Analyst • Medellín, Colombia
 
 Specialized in:
