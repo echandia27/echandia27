@@ -4,9 +4,12 @@
 
 **`Data Analyst · Aspiring Data Scientist · Python Dev`**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/echandia27)
-[![Location](https://img.shields.io/badge/Medell%C3%ADn%2C_Colombia-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-echandia)
+[![Gmail](https://img.shields.io/badge/jp.echandia@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jp.echandia@gmail.com)
+[![GitHub](https://img.shields.io/badge/echandia27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/echandia27)
+
+<!-- Typing animation — funciona en GitHub sin activar nada -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Junior+Data+Analyst+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Transforming+data+into+business+insights)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,6 +21,7 @@ class JuanPablo:
         self.name       = "Juan Pablo Echandía Sánchez"
         self.role       = "Junior Data Analyst"
         self.location   = "Medellín, Colombia 🇨🇴"
+        self.email      = "jp.echandia@gmail.com"
         self.focus      = "Transforming complex data into actionable business strategies"
 
     def specializations(self):
@@ -73,14 +77,14 @@ class JuanPablo:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=echandia27&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=echandia27&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=echandia27&layout=compact&theme=github_dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echandia27&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>⚡ Always learning · Open to collaborations · <a href="mailto:tu@email.com">Get in touch</a></sub>
+  <sub>⚡ Always learning · Open to collaborations · <a href="mailto:jp.echandia@gmail.com">jp.echandia@gmail.com</a></sub>
 </div>
