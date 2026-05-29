@@ -21,48 +21,36 @@ Tech Stack
 <table>
 <tr>
 <td align="center" width="33%">
-
-Data & Programming
+### Data & Programming
 <br>
-
-<img src="https://skillicons.dev/icons?i=python,postgres,git&theme=dark" />
-
-
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<br><br>
 Python (Pandas/NumPy) • SQL • Git
-
 </td>
 <td align="center" width="33%">
-
-BI & Visualization
+### BI & Visualization
 <br>
-
-<img src="https://skillicons.dev/icons?i=tableau,excel&theme=dark" /> <img src="https://img.icons8.com/color/48/000000/power-bi.png" />
-
-
-
-
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-software.svg" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40" height="40"/>
+<br><br>
 Power BI • Tableau • Excel
-
 </td>
 <td align="center" width="33%">
-
-Analytics & Methods
+### Analytics & Methods
 <br>
-
-<img src="https://skillicons.dev/icons?i=jupyter&theme=dark" /> <img src="https://cdn.simpleicons.org/markdown/000000" />
-
-
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"/>
+<br><br>
 Jupyter • Statistical Analysis • EDA
-
 </td>
 </tr>
 </table>
 
 </div>
+
 
 Contribution Activity
 <div align="center">
