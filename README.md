@@ -1,20 +1,3 @@
-Junior Data Analyst focused on transforming complex data into actionable business strategies.
-
-> whoami
-
-Juan Pablo Echandía Sánchez
-
-Data Analyst • Medellín, Colombia
-
-Specialized in:
-
-Data Cleaning & Transformation
-Business Intelligence (BI) & KPI Reporting
-Customer Behavior & Trend Analysis
-Dashboard Design & Data Visualization
-Cost & Operations Analysis
-Bridging the gap between data science and business administration using Python, SQL and BI tools.
-
 Tech Stack
 <div align="center">
 
@@ -51,11 +34,18 @@ Jupyter • Statistical Analysis • EDA
 
 </div>
 
+Junior Data Analyst focused on transforming complex data into actionable business strategies.
+
+> whoami
+
+Juan Pablo Echandía SánchezData Analyst • Medellín, ColombiaSpecialized in:- Data Cleaning & Transformation- Business Intelligence (BI) & KPI Reporting- Customer Behavior & Trend Analysis- Dashboard Design & Data Visualization- Cost & Operations Analysis
+Bridging the gap between data science and business administration using Python, SQL and BI tools.
 
 Contribution Activity
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/echandia27/echandia27/output/github-contribution-grid-snake-dark.svg"/>
+<!-- OJO: Aquí corregí el nombre del archivo de la serpiente -->
+<img width="100%" src="https://raw.githubusercontent.com/echandia27/echandia27/output/github-snake-dark.svg"/>
 
 </div>
 
@@ -68,39 +58,33 @@ Contribution Activity
 Featured Projects
 <table>
 <tr>
-<!-- NOTA: Aquí están tus proyectos reales enlazados -->
 <td width="50%" align="center">
 
 <a href="https://github.com/echandia27/practica_datos.git">
 <h2>🐍 Analysis Retailco</h2>
 </a>
-
-<p>Python • Algorithms • Data Structures</p>
+<p>Python • Data Analysis • Retail Metrics</p>
 
 </td>
 <td width="50%" align="center">
 
 <a href="https://github.com/echandia27/DBT.git">
-<h2>💼 DBT</h2>
+<h2>💼 DBT Project</h2>
 </a>
-
-<p>Web Development • Data Analyst Profile</p>
+<p>Data Build Tool • SQL Transformations</p>
 
 </td>
 </tr>
 <tr>
-<!-- NOTA: Deja estos dos listos para cuando subas tus próximos proyectos de Datos -->
 <td width="50%" align="center">
 
 <h2>📊 Sales & Data Analysis</h2>
-
 <p>Python • SQL • Pandas • *Coming Soon*</p>
 
 </td>
 <td width="50%" align="center">
 
 <h2>🧠 Predictive Modeling</h2>
-
 <p>Machine Learning • Scikit-Learn • *Coming Soon*</p>
 
 </td>
@@ -123,14 +107,7 @@ Featured Projects
 
 </div>
 
+<br>
 <div align="center">
-
-Bridging the gap between data and business strategy.
-</div>
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:1e1b4b&height=120&section=footer"/>
-
+<i>Bridging the gap between data and business strategy.</i>
 </div>
