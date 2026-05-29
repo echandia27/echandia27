@@ -19,7 +19,7 @@
 
 <br>
 
-```bash
+
 > whoami
 
 Juan Pablo Echandía Sánchez
@@ -162,4 +162,3 @@ Featured Projects
 
 Bridging the gap between data and business strategy.
 </div>
-```
