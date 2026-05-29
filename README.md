@@ -8,7 +8,6 @@
 [![Gmail](https://img.shields.io/badge/jp.echandia@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jp.echandia@gmail.com)
 [![GitHub](https://img.shields.io/badge/echandia27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/echandia27)
 
-<!-- Typing animation — funciona en GitHub sin activar nada -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Junior+Data+Analyst+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Transforming+data+into+business+insights)](https://git.io/typing-svg)
 
 </div>
@@ -57,7 +56,7 @@ class JuanPablo:
 
 ### 🔬 Analytics & Methods
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-4A90D9?style=flat-square&logo=scipy&logoColor=white)
+![Scipy](https://img.shields.io/badge/Statistical_Analysis-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-2EA44F?style=flat-square)
 
 </div>
@@ -77,9 +76,11 @@ class JuanPablo:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=echandia27&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<!-- Alternativa 1: streak stats (muy confiable) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=echandia27&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echandia27&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
+<!-- Alternativa 2: stats por idioma -->
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=echandia27&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
