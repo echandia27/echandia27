@@ -1,16 +1,146 @@
-## Hi there 👋
+Junior Data Analyst focused on transforming complex data into actionable business strategies.
 
-<!--
-**echandia27/echandia27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> whoami
+Juan Pablo Echandía Sánchez
+Data Analyst • Medellín, Colombia
 
-Here are some ideas to get you started:
+Specialized in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Cleaning & Transformation
+Business Intelligence (BI) & KPI Reporting
+Customer Behavior & Trend Analysis
+Dashboard Design & Data Visualization
+Cost & Operations Analysis
+Bridging the gap between data science and business administration using Python, SQL and BI tools.
+
+Tech Stack
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+Data & Programming
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,postgres,git&theme=dark" />
+
+
+
+
+Python (Pandas/NumPy) • SQL • Git
+
+</td>
+<td align="center" width="33%">
+
+BI & Visualization
+<br>
+
+<img src="https://skillicons.dev/icons?i=tableau,excel&theme=dark" /> <img src="https://img.icons8.com/color/48/000000/power-bi.png" />
+
+
+
+
+Power BI • Tableau • Excel
+
+</td>
+<td align="center" width="33%">
+
+Analytics & Methods
+<br>
+
+<img src="https://skillicons.dev/icons?i=jupyter&theme=dark" /> <img src="https://cdn.simpleicons.org/markdown/000000" />
+
+
+
+
+Jupyter • Statistical Analysis • EDA
+
+</td>
+</tr>
+</table>
+
+</div>
+
+Contribution Activity
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/echandia27/echandia27/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=a78bfa&center=true&vCenter=true&width=700&lines=%24+loading_raw_datasets...;%24+cleaning_and_transforming_data...;%24+running_statistical_models...;%24+system+status%3A+INSIGHTS_READY" />
+
+</div>
+
+Featured Projects
+<table>
+<tr>
+<!-- NOTA: Aquí están tus proyectos reales enlazados -->
+<td width="50%" align="center">
+
+<a href="https://github.com/echandia27/practica_datos.git">
+<h2>🐍 Analysis Retailco</h2>
+</a>
+
+<p>Python • Algorithms • Data Structures</p>
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://github.com/echandia27/DBT.git">
+<h2>💼 DBT</h2>
+</a>
+
+<p>Web Development • Data Analyst Profile</p>
+
+</td>
+</tr>
+<tr>
+<!-- NOTA: Deja estos dos listos para cuando subas tus próximos proyectos de Datos -->
+<td width="50%" align="center">
+
+<h2>📊 Sales & Data Analysis</h2>
+
+<p>Python • SQL • Pandas • *Coming Soon*</p>
+
+</td>
+<td width="50%" align="center">
+
+<h2>🧠 Predictive Modeling</h2>
+
+<p>Machine Learning • Scikit-Learn • *Coming Soon*</p>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/echandia27">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=a78bfa" />
+</a>
+
+<a href="https://linkedin.com/in/pablo-echandia/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa" />
+</a>
+
+<a href="mailto:jp.echandia@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=a78bfa" />
+</a>
+
+</div>
+
+<div align="center">
+
+Bridging the gap between data and business strategy.
+</div>
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:1e1b4b&height=120&section=footer"/>
+
+</div>
