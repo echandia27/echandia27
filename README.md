@@ -1,164 +1,86 @@
 <div align="center">
 
-<h1 style="font-size: 48px; color: #a78bfa;">JUAN PABLO ECHANDÍA</h1>
-<i style="font-size: 18px;">DATA ANALYST • ASPIRING DATA SCIENTIST • PYTHON DEV</i>
+# Juan Pablo Echandía
 
-<br><br>
+**`Data Analyst · Aspiring Data Scientist · Python Dev`**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=a78bfa&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Python+%7C+SQL;Aspiring+Data+Scientist+%26+Architect;Turning+data+into+insights..." />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/echandia27)
+[![Location](https://img.shields.io/badge/Medell%C3%ADn%2C_Colombia-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+</div>
+
+---
+
+```python
+class JuanPablo:
+    def __init__(self):
+        self.name       = "Juan Pablo Echandía Sánchez"
+        self.role       = "Junior Data Analyst"
+        self.location   = "Medellín, Colombia 🇨🇴"
+        self.focus      = "Transforming complex data into actionable business strategies"
+
+    def specializations(self):
+        return [
+            "Data Cleaning & Transformation",
+            "Business Intelligence (BI) & KPI Reporting",
+            "Customer Behavior & Trend Analysis",
+            "Dashboard Design & Data Visualization",
+            "Cost & Operations Analysis",
+        ]
+```
+
+> *Bridging the gap between data science and business administration.*
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+### 🐍 Data & Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F29111?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 📊 BI & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-1F77B4?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+### 🔬 Analytics & Methods
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-4A90D9?style=flat-square&logo=scipy&logoColor=white)
+![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-2EA44F?style=flat-square)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🛒 [Analysis Retailco](#) | Retail data analysis with business insights | Python · SQL · Power BI |
+| 🌿 [DBT Project](#) | Data transformation pipeline with dbt | dbt · PostgreSQL · SQL |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=echandia27&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=echandia27&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
 ---
 
 <div align="center">
-
-### Junior Data Analyst focused on transforming complex data into actionable business strategies.
-
-</div>
-
-<br>
-
-
-> whoami
-
-Juan Pablo Echandía Sánchez
-Data Analyst • Medellín, Colombia
-
-Specialized in:
-- Data Cleaning & Transformation
-- Business Intelligence (BI) & KPI Reporting
-- Customer Behavior & Trend Analysis
-- Dashboard Design & Data Visualization
-- Cost & Operations Analysis
-
-Bridging the gap between data science and business administration.
-
-Tech Stack
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-Data & Programming
-<br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-
-
-
-
-Python (Pandas/NumPy) • SQL • Git
-
-</td>
-<td align="center" width="33%">
-
-BI & Visualization
-<br>
-
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40" height="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-software.svg" width="40" height="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40" height="40"/>
-
-
-
-
-Power BI • Tableau • Excel
-
-</td>
-<td align="center" width="33%">
-
-Analytics & Methods
-<br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"/>
-
-
-
-
-Jupyter • Statistical Analysis • EDA
-
-</td>
-</tr>
-</table>
-
-</div>
-
-Contribution Activity
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/echandia27/echandia27/output/github-snake-dark.svg"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=a78bfa&center=true&vCenter=true&width=700&lines=%24+loading_raw_datasets...;%24+cleaning_and_transforming_data...;%24+running_statistical_models...;%24+system+status%3A+ONLINE" />
-
-</div>
-
-Featured Projects
-<table>
-<tr>
-<td width="50%" align="center">
-
-<a href="https://github.com/echandia27/practica_datos.git">
-<h2>🐍 Analysis Retailco</h2>
-</a>
-
-<p>Python • Data Analysis • Retail Metrics</p>
-
-</td>
-<td width="50%" align="center">
-
-<a href="https://github.com/echandia27/DBT.git">
-<h2>💼 DBT Project</h2>
-</a>
-
-<p>Data Build Tool • SQL Transformations</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<h2>📊 Sales & Data Analysis</h2>
-
-<p>Python • SQL • Pandas • *Coming Soon*</p>
-
-</td>
-<td width="50%" align="center">
-
-<h2>🧠 Predictive Modeling</h2>
-
-<p>Machine Learning • Scikit-Learn • *Coming Soon*</p>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/echandia27">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=a78bfa" />
-</a>
-
-<a href="https://linkedin.com/in/pablo-echandia/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa" />
-</a>
-
-<a href="mailto:jp.echandia@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=a78bfa" />
-</a>
-
-</div>
-
-<br>
-<div align="center">
-
-Bridging the gap between data and business strategy.
+  <sub>⚡ Always learning · Open to collaborations · <a href="mailto:tu@email.com">Get in touch</a></sub>
 </div>
